@@ -6,4 +6,5 @@ alvaro.hobbies=["nadar,correr"]
 console.log(alvaro.calImc())
 console.log(alvaro.edad(2023))
 console.log(alvaro.printall())
-alvaro.printHobbies()
+alvaro.printHobbies() 
+
