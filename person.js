@@ -1,3 +1,5 @@
+
+
 class person {
     constructor(altura,peso,){
         this.altura=altura
